@@ -1,0 +1,15 @@
+[submodule "buddytherobot"]
+	path = buddytherobot
+	url = https://github.com/baptiste2k8/buddytherobot.git
+[submodule "notificationapp"]
+	path = notificationapp
+	url = https://github.com/baptiste2k8/notificationapp.git
+[submodule "fitbitwatchserverapp"]
+	path = fitbitwatchserverapp
+	url = https://github.com/baptiste2k8/fitbitwatchserverapp.git
+[submodule "fitbitwatchapp"]
+	path = fitbitwatchapp
+	url = https://github.com/baptiste2k8/fitbitwatchapp.git
+[submodule "wimp-app"]
+	path = wimp-app
+	url = https://github.com/baptiste2k8/wimp-app.git
