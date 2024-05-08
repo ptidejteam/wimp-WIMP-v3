@@ -13,3 +13,7 @@
 [submodule "wimp-app"]
 	path = wimp-app
 	url = https://github.com/baptiste2k8/wimp-app.git
+
+[submodule "BuddyAPIs"]
+	path = BuddyAPIs
+	url = https://github.com/baptiste2k8/BuddyAPIs.git
