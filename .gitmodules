@@ -17,3 +17,6 @@
 [submodule "BuddyAPIs"]
 	path = BuddyAPIs
 	url = https://github.com/baptiste2k8/BuddyAPIs.git
+[submodule "FitbitAPIs"]
+	path = FitbitAPIs
+	url = https://github.com/baptiste2k8/FitbitAPIs.git
