@@ -20,3 +20,6 @@
 [submodule "FitbitAPIs"]
 	path = FitbitAPIs
 	url = https://github.com/baptiste2k8/FitbitAPIs.git
+[submodule "WIMP_APIs"]
+	path = WIMP_APIs
+	url = https://github.com/baptiste2k8/WIMP_APIs.git
